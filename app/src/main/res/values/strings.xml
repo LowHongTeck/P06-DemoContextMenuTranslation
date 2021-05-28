@@ -2,4 +2,8 @@
     <string name="app_name">Demo Context Menu Translation</string>
     <string name="hello">Hello</string>
     <string name="bye">Bye</string>
+    <string name="english">English</string>
+    <string name="italian">Italian</string>
+    <string name="french">French</string>
+    <string name="welcome">Welcome</string>
 </resources>
