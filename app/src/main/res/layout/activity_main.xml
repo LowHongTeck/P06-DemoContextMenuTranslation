@@ -9,11 +9,11 @@
         android:id="@+id/textViewTranslatedText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello" />
+        android:text="@string/hello" />
 
     <TextView
         android:id="@+id/textViewTranslatedText2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Bye" />
+        android:text="@string/bye" />
 </LinearLayout>
